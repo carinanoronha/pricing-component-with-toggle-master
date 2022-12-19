@@ -212,6 +212,19 @@ hr {
   background-repeat: no-repeat;
 }
 
+footer {
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.reference {
+  color: var(--grayish-blue);
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
 @media (hover: hover) {
   .container-1 button:hover,
   .container-3 button:hover {
