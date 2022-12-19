@@ -225,6 +225,10 @@ footer {
   letter-spacing: 1px;
 }
 
+.reference a {
+  color:hsl(237, 63%, 64%);
+}
+
 @media (hover: hover) {
   .container-1 button:hover,
   .container-3 button:hover {
